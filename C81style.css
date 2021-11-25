@@ -1,0 +1,17 @@
+
+h1
+{
+	color: rgb(66, 3, 3); 
+	font-size: 40px;
+}
+.body_backgorund {
+	background-image: url("https://thumbs.dreamstime.com/b/colorful-abstract-acrylic-painting-natural-dynamic-mixture-colors-flow-background-30555980.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#myCanvas{
+border-width: 10px;
+background-color: white;
+border-style: ridge;
+}
